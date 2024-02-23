@@ -9,6 +9,6 @@ paperurl: 'http://miogattograsso.github.io/files/Nonlinear_Dyn_final_version_com
 citation: 'Wang, M., Pau, A., Zhang, G., Kundu, T. Monitoring prestress in plates by sideband peak count-index (SPC-I) and nonlinear higher harmonics techniques, Nonlinear Dynamics, 111(17):1-18'
 ---
 
-[Download paper here](http://miogattograsso.github.io/files/Nonlinear_Dyn_final_version_compressed.pdf)
+[Download paper here](http://wang-meng-web.github.io/files/Nonlinear_Dyn_final_version_compressed.pdf)
 
 Recommended citation: Wang, M., Pau, A., Zhang, G., Kundu, T. Monitoring prestress in plates by sideband peak count-index (SPC-I) and nonlinear higher harmonics techniques, Nonlinear Dynamics, 111(17):1-18
