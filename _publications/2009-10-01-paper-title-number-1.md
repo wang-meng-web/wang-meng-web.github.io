@@ -9,6 +9,6 @@ paperurl: 'http://miogattograsso.github.io/files/533636_1_En_22_Chapter_Author.p
 citation: 'Wang, M., Pau, A. Stress Monitoring of Plates by Means of Nonlinear Guided Waves, European Workshop on Structural Health Monitoring 2022, Volume 3, pp.212-220'
 ---
 
-[Download paper here](http://miogattograsso.github.io/files/533636_1_En_22_Chapter_Author.pdf)
+[Download paper here](http://wang-meng-web.github.io/files/533636_1_En_22_Chapter_Author.pdf)
 
 Recommended citation: Wang, M., Pau, A. Stress Monitoring of Plates by Means of Nonlinear Guided Waves, European Workshop on Structural Health Monitoring 2022, Volume 3, pp.212-220
