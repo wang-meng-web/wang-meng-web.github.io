@@ -9,6 +9,6 @@ paperurl: 'http://miogattograsso.github.io/files/Wang_design_2023.pdf'
 citation: 'Wang. M., Pau, A., Lepidi, M. Design of mechanical metamaterials based on biphasic periodic microstructures,  X ECCOMAS Thematic Conference on Smart Structures and Materials 2023'
 ---
 
-[Download paper here](http://miogattograsso.github.io/files/Wang_design_2023.pdf)
+[Download paper here](http://wang-meng-web.github.io/files/Wang_design_2023.pdf)
 
 Recommended citation: Wang. M., Pau, A., Lepidi, M. Design of mechanical metamaterials based on biphasic periodic microstructures,  X ECCOMAS Thematic Conference on Smart Structures and Materials 2023
