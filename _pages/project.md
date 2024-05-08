@@ -1,10 +1,3 @@
----
-layout: archive
-title: "Projects"
-permalink: /project/
-author_profile: true
----
-
 Elastoacoustic Wave Propagation in Biphasic Mechanical Metamaterial
 ======
 <hr>
