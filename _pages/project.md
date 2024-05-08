@@ -18,6 +18,8 @@ The sound and vibration insulation performances were verified by a finite elemen
    <img width="400" src='/images/fluid_propagation_meta.png'>
 </div>
 
+<br>
+<br>
 
 Design of Biphasic Metamaterials
 ======
@@ -31,7 +33,8 @@ Through a tuning of the mechanical properties of the metamaterial, waves of give
    <img width="400" src='/images/many_shapes.png'>
    <img width="550" src='/images/dispersion_void_and_channel.png'>
 </div>
-
+<br>
+<br>
 
 Wave Mixing Technique
 ======
@@ -44,6 +47,9 @@ Finite element model was employed and showed that the amplitude of the secondary
    <img width="400" src='/images/group_phase_vel.png'>
    <img width="400" src='/images/amp_wave_mixing.png'>
 </div>
+
+<br>
+<br>
 
 Second harmonic generation in prestressed media
 ======
