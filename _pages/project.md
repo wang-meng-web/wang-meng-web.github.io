@@ -11,7 +11,7 @@ We presents a high contrast mechanical metamaterial made of periodic solid cells
 
 <div style="text-align: center;">
    <img width="400" src='/images/fluid_propagation_meta.png'>
-   <img width="600" src='/images/polar_factor_eigen.pdf'>
+   <img width="600" src='/images/polar_factor_eigen.png'>
 </div>
 
 
