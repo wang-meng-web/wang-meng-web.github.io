@@ -7,6 +7,7 @@ author_profile: true
 
 Elastoacoustic Wave Propagation in Biphasic Mechanical Metamaterial
 ======
+<hr>
 A high contrast mechanical metamaterial made of periodic solid cells with interconnected air-filled voids presents simultaneous acoustic and elastic frequency bandgaps in its dispersion spectrum, the dispersion curves are polarized in accord with the strain energy of fluid and solid. 
 
 The sound and vibration insulation performances were verified by a finite element analysis of forced waves propagating through a finite-size metamaterial domain, which is composed by a finite array of repetitive cells and is representative of a real application. 
@@ -19,6 +20,8 @@ The sound and vibration insulation performances were verified by a finite elemen
 
 Design of Biphasic Metamaterials
 ======
+<hr>
+
 Mechanical metamaterial, characterized by a biphasic (fluid and solid) periodic cell, that exhibits acoustic as well as elastic bandgaps in the dispersion spectrum, which – in principle – could provide insulation from both sound and vibration in prescribed frequency ranges. 
 
 Through a tuning of the mechanical properties of the metamaterial, waves of given nature and frequency can be remarkably attenuated simultaneously in the two different domains.
@@ -31,6 +34,8 @@ Through a tuning of the mechanical properties of the metamaterial, waves of give
 
 Wave Mixing Technique
 ======
+<hr>
+
 Wave mixing means when two internally resonant Lamb wave modes of different frequencies are allowed to mix within the material, which generates a third type of harmonic waves at frequencies. 
 Finite element model was employed and showed that the amplitude of the secondary harmonics is sensitive to the state of prestress 
 
@@ -41,9 +46,11 @@ Finite element model was employed and showed that the amplitude of the secondary
 
 Second harmonic generation in prestressed media
 ======
+<hr>
+
 Nonlinear guided wave propagation in prestressed Aluminum plates associated with the second harmonic generation was investigated by FEM. 
 
-The model empoyed is a second-order approximation accounting for material and geometric nonlinearities. Three different states of prestress are considered, that are: uniaxial stress in the direction of the wave propagation (case A), uniaxial stress orthogonal to the direction of wave propagation (B), and plane state of stress in the plane of the plate (C).
+The model empoyed is a second-order approximation accounting for material and geometric nonlinearities.
 
 <div style="text-align: center;">
    <img width="600" src='/images/resonance.png'>
