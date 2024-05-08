@@ -7,6 +7,8 @@ author_profile: true
 
 Biphasic Acoustic Metamaterials
 ======
+<hr>
+
 <div style="text-align: center;">
    <img width="400" src='/images/tpms.png'>
 </div>
@@ -16,6 +18,7 @@ Elmadih, W., Chronopoulos, D. & Zhu, J. Metamaterials for simultaneous acoustic 
 
 Seismic Metamaterials
 ======
+<hr>
 
 <div style="text-align: center;">
    <img width="680" src='/images/SMM.png'>
@@ -25,6 +28,7 @@ Y Achaoui et al 2017 New J. Phys. 19 063022
 
 Nonlinear Elastic Waves
 ======
+<hr>
 
 <div style="text-align: center;">
    <img width="500" src='/images/many_peaks.png'>
