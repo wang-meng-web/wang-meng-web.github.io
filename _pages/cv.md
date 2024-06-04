@@ -22,27 +22,27 @@ Skills
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1 1 30%; min-width: 200px;">
     <strong>Phononic Crystals</strong><br>
-    `[████████████████████]`
+    `████████████████████`
   </div>
   <div style="flex: 1 1 30%; min-width: 200px;">
     <strong>Vibrations</strong> <br>
-    `[████████████████████]`
+    `████████████████████`
   </div>
   <div style="flex: 1 1 30%; min-width: 200px;">
     <strong>FEA</strong> <br>
-    `[████████████████████]`
+    `████████████████████`
   </div>
   <div style="flex: 1 1 30%; min-width: 200px;">
     <strong>Ultrasonics</strong> <br>
-    `[████████████████████]`
+    `████████████████████`
   </div>
   <div style="flex: 1 1 30%; min-width: 200px;">
     <strong>Partial Differential Equation</strong><br>
-    `[████████████████████]`
+    `████████████████████`
   </div>
   <div style="flex: 1 1 30%; min-width: 200px;">
     <strong>Fluid-Solid interface</strong><br>
-    `[█████████████████---]`
+    `█████████████████`
   </div>
 </div>
 
