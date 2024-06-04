@@ -45,11 +45,11 @@ Skills
     `[████████████████████]`
   </div>
   <div style="flex: 1 1 30%; min-width: 200px;">
-    <strong>Partial Differential Equation</strong> Native<br>
+    <strong>Partial Differential Equation</strong><br>
     `[████████████████████]`
   </div>
   <div style="flex: 1 1 30%; min-width: 200px;">
-    <strong>Fluid-Solid interface</strong> Good<br>
+    <strong>Fluid-Solid interface</strong><br>
     `[███████████████-----]`
   </div>
 </div>
