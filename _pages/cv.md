@@ -33,6 +33,19 @@ Skills
 * Drawing:
   * Inkscape, Adobe Illustrator
 
+**Phononic Crystals** 2 yrs.  
+`[████████████████████]`  
+
+**Vibrations** 2+ yrs.  
+`[██████████████████--]`  
+
+**FEA** 2+ yrs.  
+`[██████████████████--]`  
+
+**Fluid-Solid coupled** 1 yr.  
+`[██████████----------]`  
+
+
 Publications
 ======
   <ul>{% for post in site.publications %}
