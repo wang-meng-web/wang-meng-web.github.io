@@ -34,16 +34,24 @@ Skills
   * Inkscape, Adobe Illustrator
 
 **Phononic Crystals** 2 yrs.  
-`[████████████████████]`  
+<div style="background-color: #e0e0e0; border-radius: 4px; width: 10px; height: 100px; margin-bottom: 5px; display: inline-block;">
+  <div style="background-color: #4CAF50; width: 10px; height: 100%; border-radius: 4px;"></div>
+</div>
 
 **Vibrations** 2+ yrs.  
-`[██████████████████--]`  
+<div style="background-color: #e0e0e0; border-radius: 4px; width: 10px; height: 100px; margin-bottom: 5px; display: inline-block;">
+  <div style="background-color: #4CAF50; width: 10px; height: 90%; border-radius: 4px;"></div>
+</div>
 
 **FEA** 2+ yrs.  
-`[██████████████████--]`  
+<div style="background-color: #e0e0e0; border-radius: 4px; width: 10px; height: 100px; margin-bottom: 5px; display: inline-block;">
+  <div style="background-color: #4CAF50; width: 10px; height: 90%; border-radius: 4px;"></div>
+</div>
 
 **Fluid-Solid coupled** 1 yr.  
-`[██████████----------]`  
+<div style="background-color: #e0e0e0; border-radius: 4px; width: 10px; height: 100px; margin-bottom: 5px; display: inline-block;">
+  <div style="background-color: #4CAF50; width: 10px; height: 60%; border-radius: 4px;"></div>
+</div>
 
 
 Publications
