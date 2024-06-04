@@ -11,15 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Aircraft Manufacturing Engineering, Tongji University, 2018
-* M.S. in Mechanical Engineering, Università degli Studi di Roma "La Sapienza", 2021
+* B.Sc in Aircraft Manufacturing Engineering, Tongji University, 2018
+* M.Sc in Engineering, Università degli Studi di Roma "La Sapienza", 2021
 * Ph.D in Engineering, Università degli Studi di Roma "La Sapienza", 2025 (expected)
-
-Work experience
-======
-* 2022: Research Assistant, DISG, Sapienza University of Roma
-  * Duties included: Research on Multiple-scale approach and Nonlinear elastic waves
-  * Supervisor: Prof. Annamaria Pau
 
   
 Skills
@@ -33,25 +27,40 @@ Skills
 * Drawing:
   * Inkscape, Adobe Illustrator
 
-**Phononic Crystals** 2 yrs.  
-<div style="background-color: #e0e0e0; border-radius: 4px; width: 10px; height: 100px; margin-bottom: 5px; display: inline-block;">
-  <div style="background-color: #4CAF50; width: 10px; height: 100%; border-radius: 4px;"></div>
+# Skills
+
+<div style="display: flex; align-items: flex-end; gap: 20px;">
+
+  <div>
+    <strong>Phononic Crystals</strong> 2 yrs.<br>
+    <div style="background-color: #e0e0e0; border-radius: 4px; width: 10px; height: 100px; margin-top: 5px; position: relative;">
+      <div style="background-color: #4CAF50; width: 10px; height: 100%; border-radius: 4px; position: absolute; bottom: 0;"></div>
+    </div>
+  </div>
+
+  <div>
+    <strong>Vibrations</strong> 2+ yrs.<br>
+    <div style="background-color: #e0e0e0; border-radius: 4px; width: 10px; height: 100px; margin-top: 5px; position: relative;">
+      <div style="background-color: #4CAF50; width: 10px; height: 90%; border-radius: 4px; position: absolute; bottom: 0;"></div>
+    </div>
+  </div>
+
+  <div>
+    <strong>FEA</strong> 2+ yrs.<br>
+    <div style="background-color: #e0e0e0; border-radius: 4px; width: 10px; height: 100px; margin-top: 5px; position: relative;">
+      <div style="background-color: #4CAF50; width: 10px; height: 90%; border-radius: 4px; position: absolute; bottom: 0;"></div>
+    </div>
+  </div>
+
+  <div>
+    <strong>Fluid-Solid coupled</strong> 1 yr.<br>
+    <div style="background-color: #e0e0e0; border-radius: 4px; width: 10px; height: 100px; margin-top: 5px; position: relative;">
+      <div style="background-color: #4CAF50; width: 10px; height: 60%; border-radius: 4px; position: absolute; bottom: 0;"></div>
+    </div>
+  </div>
+
 </div>
 
-**Vibrations** 2+ yrs.  
-<div style="background-color: #e0e0e0; border-radius: 4px; width: 10px; height: 100px; margin-bottom: 5px; display: inline-block;">
-  <div style="background-color: #4CAF50; width: 10px; height: 90%; border-radius: 4px;"></div>
-</div>
-
-**FEA** 2+ yrs.  
-<div style="background-color: #e0e0e0; border-radius: 4px; width: 10px; height: 100px; margin-bottom: 5px; display: inline-block;">
-  <div style="background-color: #4CAF50; width: 10px; height: 90%; border-radius: 4px;"></div>
-</div>
-
-**Fluid-Solid coupled** 1 yr.  
-<div style="background-color: #e0e0e0; border-radius: 4px; width: 10px; height: 100px; margin-bottom: 5px; display: inline-block;">
-  <div style="background-color: #4CAF50; width: 10px; height: 60%; border-radius: 4px;"></div>
-</div>
 
 
 Publications
