@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Aircraft Manufacturing Engineering, Tongji University, 2018
-* M.S. in Mechanical Engineering, Sapienza University of Roma, 2021
-* Ph.D in Engineering, Sapienza University of Roma, 2025 (expected)
+* M.S. in Mechanical Engineering, Università degli Studi di Roma "La Sapienza", 2021
+* Ph.D in Engineering, Università degli Studi di Roma "La Sapienza", 2025 (expected)
 
 Work experience
 ======
@@ -27,11 +27,11 @@ Skills
 * Analytical:
   * Wolfram Mathematica, Matlab
 * Numerical:
-  * COMSOL Multiphysics
+  * COMSOL Multiphysics, COMSOL LiveLink with Matlab
 * Text format:
   * LaTeX, Markdown
 * Drawing:
-  * Origin, Inkscape, Adobe Illustrator
+  * Inkscape, Adobe Illustrator
 
 Publications
 ======
