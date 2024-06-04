@@ -32,28 +32,28 @@ Skills
 <div style="display: flex; align-items: flex-end; gap: 20px;">
 
   <div>
-    <strong>Phononic Crystals</strong> 2 yrs.<br>
+    <strong>Phononic Crystals</strong><br>
     <div style="background-color: #e0e0e0; border-radius: 4px; width: 10px; height: 100px; margin-top: 5px; position: relative;">
       <div style="background-color: #4CAF50; width: 10px; height: 100%; border-radius: 4px; position: absolute; bottom: 0;"></div>
     </div>
   </div>
 
   <div>
-    <strong>Vibrations</strong> 2+ yrs.<br>
+    <strong>Vibrations</strong><br>
     <div style="background-color: #e0e0e0; border-radius: 4px; width: 10px; height: 100px; margin-top: 5px; position: relative;">
       <div style="background-color: #4CAF50; width: 10px; height: 90%; border-radius: 4px; position: absolute; bottom: 0;"></div>
     </div>
   </div>
 
   <div>
-    <strong>FEA</strong> 2+ yrs.<br>
+    <strong>FEA</strong><br>
     <div style="background-color: #e0e0e0; border-radius: 4px; width: 10px; height: 100px; margin-top: 5px; position: relative;">
       <div style="background-color: #4CAF50; width: 10px; height: 90%; border-radius: 4px; position: absolute; bottom: 0;"></div>
     </div>
   </div>
 
   <div>
-    <strong>Fluid-Solid coupled</strong> 1 yr.<br>
+    <strong>Fluid-Solid coupled</strong><br>
     <div style="background-color: #e0e0e0; border-radius: 4px; width: 10px; height: 100px; margin-top: 5px; position: relative;">
       <div style="background-color: #4CAF50; width: 10px; height: 60%; border-radius: 4px; position: absolute; bottom: 0;"></div>
     </div>
