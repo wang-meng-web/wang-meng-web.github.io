@@ -18,14 +18,6 @@ Education
   
 Skills
 ======
-* Analytical:
-  * Wolfram Mathematica, Matlab
-* Numerical:
-  * COMSOL Multiphysics, COMSOL LiveLink with Matlab
-* Text format:
-  * LaTeX, Markdown
-* Drawing:
-  * Inkscape, Adobe Illustrator
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1 1 30%; min-width: 200px;">
@@ -50,9 +42,20 @@ Skills
   </div>
   <div style="flex: 1 1 30%; min-width: 200px;">
     <strong>Fluid-Solid interface</strong><br>
-    `[███████████████-----]`
+    `[█████████████████---]`
   </div>
 </div>
+
+
+
+* Analytical:
+  * Wolfram Mathematica, Matlab
+* Numerical:
+  * COMSOL Multiphysics, COMSOL LiveLink with Matlab
+* Text format:
+  * LaTeX, Markdown
+* Drawing:
+  * Inkscape, Adobe Illustrator
 
 
 
