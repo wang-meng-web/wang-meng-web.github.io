@@ -29,19 +29,19 @@ Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1 1 30%; min-width: 200px;">
-    <strong>Phononic Crystals</strong> 2 yrs.<br>
+    <strong>Phononic Crystals</strong><br>
     `[████████████████████]`
   </div>
   <div style="flex: 1 1 30%; min-width: 200px;">
-    <strong>Vibrations</strong> 2+ yrs.<br>
+    <strong>Vibrations</strong> <br>
     `[████████████████████]`
   </div>
   <div style="flex: 1 1 30%; min-width: 200px;">
-    <strong>FEA</strong> 2+ yrs.<br>
+    <strong>FEA</strong> <br>
     `[████████████████████]`
   </div>
   <div style="flex: 1 1 30%; min-width: 200px;">
-    <strong>Ultrasonics</strong> 1 yr.<br>
+    <strong>Ultrasonics</strong> <br>
     `[████████████████████]`
   </div>
   <div style="flex: 1 1 30%; min-width: 200px;">
