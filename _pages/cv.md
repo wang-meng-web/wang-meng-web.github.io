@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Sc in Aircraft Manufacturing Engineering, Tongji University, 2018
-* M.Sc in Engineering, Università degli Studi di Roma "La Sapienza", 2021
-* Ph.D in Engineering, Università degli Studi di Roma "La Sapienza", 2025 (expected)
+* B.Sc in Engineering, Tongji University, 2018
+* M.Sc in Engineering, Università degli Studi di Roma "La Sapienza", 2022
+* Ph.D in Engineering, Università degli Studi di Roma "La Sapienza", 2025
 
   
 Skills
